@@ -1,0 +1,8 @@
+{
+  "appId": "com.ironlog.app",
+  "appName": "IRON LOG",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
